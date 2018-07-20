@@ -1,0 +1,54 @@
+{
+  "images": [
+    {
+      "name": "Thomas Maurer Awesome Image",
+      "version": "10.0.16299",
+      "locale": "en-US",
+      "publisher": "ThomasMaurer.ch",
+      "lastUpdated": "2018-05-22T23:16:43Z",
+      "description": [
+        "This is Toms Awesome Image!",
+        "\r\n\r\n",
+        "Check out more on: https://www.thomasmaurer.ch for any additional details.",
+        "\r\n\r\n"
+      ],
+      "config": {
+        "secureBoot": "true"
+      },
+      "requirements": {
+        "diskSpace": "28290580480"
+      },
+      "disk": {
+        "uri": "https://download.microsoft.com/download/1/8/2/182A2CF7-B1B8-4CEC-876A-E883FA1D671B/HyperFeed.zip",
+        "hash": "sha256:7786a0b2ff0d726e095fbcdaded8e2bad8f53b72dda2dd19c7005f3540b5b927",
+        "archiveRelativePath": "HyperFeed.vhdx"
+      },
+      "logo": {
+        "uri": "https://www.thomasmaurer.ch/TMLogo.jpg",
+        "hash": "sha256:259F7864136D8A238B478CA4BB6F0AE8EF94AA1D31320CD1EA6AD9AE32B08C72"
+      },
+      "symbol": {
+        "uri": "https://www.thomasmaurer.ch/TMLogo.jpg",
+        "hash": "sha256:259F7864136D8A238B478CA4BB6F0AE8EF94AA1D31320CD1EA6AD9AE32B08C72"
+      },
+      "thumbnail": {
+        "uri": "https://www.thomasmaurer.ch/thumbnail.jpg",
+        "hash": "sha256:8483670D97078ECF0FA278113C7BAD169448C6C8400B56AACEF0C5D311AB6373"
+      },
+      "details": [
+        {
+          "name": "Edition",
+          "value": "Windows 10 Tom Edition"
+        },
+        {
+          "name": "Copyright",
+          "value": "Copyright (c) Thomas Maurer. All rights reserved."
+        },
+        {
+          "name": "License",
+          "value": "Evaluation: https://www.thomasmaurer.ch"
+        }
+      ]
+    }
+  ]
+}
